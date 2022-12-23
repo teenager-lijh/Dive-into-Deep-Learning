@@ -12,4 +12,8 @@
 
 公式写法：
 
-![](04-Bidirectional-Recurrent-Neural-Networks.assets/image-20221108205914484.png)
+![](04-Bidirectional-Recurrent-Neural-Networks.assets/image-20221223171632713.png)
+
+
+
+双向循环神经网络通常用来做特征提取
