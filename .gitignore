@@ -2,12 +2,4 @@
 *.idea*
 *.ipynb_checkpoints*
 *__pycache__*
-master-code/data
-02-Preliminaries/data
-03-Linear-Neural-Networks/data
-04-Multilayer-Perceptrons/data
-06-Convolutional-Neural-Networks/data
-07-Modern-Convolutional-Neural-Networks/data
-08-Recurrent-Neural-Networks/data
-09-Modern-Recurrent-Neural-Networks/data
-10-Attention-Mechanisms-and-Transformers/data/
+*data*
