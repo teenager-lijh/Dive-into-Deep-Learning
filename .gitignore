@@ -1,3 +1,7 @@
+*DS_Store*
+*.idea*
+*.ipynb_checkpoints*
+*__pycache__*
 master-code/data
 02-Preliminaries/data
 03-Linear-Neural-Networks/data
